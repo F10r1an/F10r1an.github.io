@@ -1,3 +1,30 @@
-theme: jekyll-theme-minimal
-title: Florian's homepage
-description: Bookmark this to keep an eye on my project updates!
+
+# _config.yml
+title: "Your Name"
+description: "Personal homepage—research, projects, and contact."
+# If you have a custom domain, set it here and add a CNAME file.
+# url: "https://example.com"
+# baseurl is usually empty for user pages. For project pages, set to "/repo-name".
+baseurl: ""
+
+theme: minima  # simple built-in theme provided by GitHub Pages
+# You can also use other supported themes or leave it off and use your own HTML/CSS.
+
+# Build settings
+markdown: kramdown
+# Exclude files from build (optional)
+exclude:
+  - README.md
+
+# Social links (minima supports these)
+minima:
+  social_links:
+    - { platform: github,  user_url: "https://github.com/your-username" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/your-profile" }
+    - { platform: twitter,  user_url: "https://twitter.com/your-handle" }
+
+# Author (optional, used by some themes)
+author:
+  name: "Your Name"
+  email: "you@example.com"
+``
