@@ -7,13 +7,43 @@ description: "Personal homepage—research, projects, and contact."
 # baseurl is usually empty for user pages. For project pages, set to "/repo-name".
 baseurl: ""
 
-# Use the midnight theme
-remote_theme: pages-themes/midnight@v0.2.0
+# Use the Reverie theme
+remote_theme: amitmerchant1990/reverie
 plugins:
 - jekyll-remote-theme
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-paginate
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
+
+# Pagination
+paginate: 6
+paginate_path: /page:num/
+
+# SEO settings
+url: "https://your-username.github.io"
+# baseurl is usually empty for user pages. For project pages, set to "/repo-name".
+baseurl: ""
+
+# Social Media Links (optional)
+# Edit these to match your social media accounts
+footer-links:
+  dribbble:
+  email: you@example.com
+  facebook:
+  flickr:
+  github: your-username
+  instagram:
+  linkedin: 
+  pinterest:
+  rss: # just type anything here for a working RSS icon
+  twitter: 
+  stackoverflow: # your-stackoverflow-id
+  youtube: # channel/<your-channel-id> or user/<your-username>
 
 # Exclude files from build (optional)
 exclude:
