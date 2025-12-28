@@ -2,6 +2,10 @@
 # _config.yml
 title: "Your Name"
 description: "Personal homepage—research, projects, and contact."
+
+# Avatar/Profile Image
+avatar: /images/profile.png
+
 # If you have a custom domain, set it here and add a CNAME file.
 # url: "https://example.com"
 # baseurl is usually empty for user pages. For project pages, set to "/repo-name".
