@@ -1,7 +1,7 @@
 
 # _config.yml
 title: "Your Name"
-description: "Personal homepage—research, projects, and contact."
+description: "Dr. Florian Eberhardt - Computer Vision Researcher"
 
 # Avatar/Profile Image
 avatar: /images/profile.png
@@ -29,7 +29,7 @@ paginate: 6
 paginate_path: /page:num/
 
 # SEO settings
-url: "https://your-username.github.io"
+url: "https://f10r1an.github.io"
 # baseurl is usually empty for user pages. For project pages, set to "/repo-name".
 baseurl: ""
 
@@ -55,5 +55,5 @@ exclude:
 
 # Author (optional, used by some themes)
 author:
-  name: "FFlorian Eberhardt"
+  name: "Florian Eberhardt"
   email: "florian.eberhardt@tum.de"
