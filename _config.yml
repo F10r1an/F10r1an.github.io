@@ -37,10 +37,10 @@ baseurl: ""
 # Edit these to match your social media accounts
 footer-links:
   dribbble:
-  email: you@example.com
+  email: florian.eberhardt@tum.de
   facebook:
   flickr:
-  github: your-username
+  github: F10r1an
   instagram:
   linkedin: 
   pinterest:
@@ -55,5 +55,16 @@ exclude:
 
 # Author (optional, used by some themes)
 author:
-  name: "Your Name"
-  email: "you@example.com"
+  name: "FFlorian Eberhardt"
+  email: "florian.eberhardt@tum.de"
+
+# Navigation menu
+navigation:
+  - name: Home
+    url: /
+  - name: About
+    url: /about
+  - name: Blog
+    url: /blog
+  - name: Contact
+    url: /contact
