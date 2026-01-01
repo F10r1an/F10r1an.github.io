@@ -4,15 +4,13 @@ title: Contact
 permalink: /contact/
 ---
 
+
 ## Get in Touch
 
 Feel free to reach out to me through any of the following channels:
 
-### Email
-[florian.eberhardt@tum.de](mailto:florian.eberhardt@tum.de)
+- **E‑Mail:** [florian.eberhardt@tum.de](mailto:florian.eberhardt@tum.de)  
+- **GitHub:** [F10r1an](https://github.com/F10r1an)  
+- **LinkedIn:** *(link coming soon)*
 
-### Professional Networks
-- GitHub: [F10r1an](https://github.com/F10r1an)
 
-### Other Ways to Connect
-Add any other contact methods or social media links you'd like to share.
